@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harish50
+- 👋 Hi, I’m Harish
 - 👀 I’m interested in full stack development and devops
 - 🌱 I’m currently learning typescript and nodejs
 - 💞️ I’m looking to collaborate on any project
